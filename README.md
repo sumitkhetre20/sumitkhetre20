@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Engineering (CGPA: 8.25/10)
+* 🎓 B.Tech Computer Engineering (CGPA: 8.26/10)
 * 🌱 Currently exploring **Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Development**
 * 💡 Interested in AI-powered applications, Web Development, and Software Engineering
 * 🔭 Working on Deepfake Detection and Intelligent Web Applications
