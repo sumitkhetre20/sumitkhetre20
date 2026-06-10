@@ -34,13 +34,21 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
 
-### Databases & Tools
+## 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
+## 🛠️ Tools & Platforms
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge\&logo=eclipse-ide)
+![Linux](https://img.shields.io/badge/Linux_Terminal-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
 ---
 
