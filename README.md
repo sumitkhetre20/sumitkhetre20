@@ -130,22 +130,6 @@
 - 📘 TCS iON Career Edge Certification
 
 ---
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitkhetre20&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhetre20&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sumitkhetre20&theme=tokyonight"/>
-</p>
-
 ---
 
 # 📫 Connect With Me
