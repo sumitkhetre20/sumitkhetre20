@@ -1,155 +1,278 @@
-Hi there, I'm Sumit Khetre 👋
+<div align="center">
 
-🎓 Computer Engineering Student at MIT Academy of Engineering, Pune
-💻 Java Full-Stack Developer | 🤖 AI/ML Enthusiast | ☁️ AWS Certified Cloud Practitioner
+👋 Hey, I'm Sumit Khetre
+💻 Java Full-Stack Developer • 🤖 AI/ML Enthusiast • ☁️ Cloud Learner
 
-🚀 Passionate about building scalable web applications, AI-driven solutions, and real-world software products. I enjoy solving challenging problems, learning emerging technologies, and developing secure, maintainable applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+real-world+software+solutions;Java+%7C+Spring+Boot+%7C+React+Developer;Exploring+AI%2C+Cloud+%26+DevOps;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-👨‍💻 About Me
-🎓 Pursuing B.Tech. in Computer Engineering at MIT Academy of Engineering, Pune
-📊 CGPA: 8.26/10
-💼 Java Full-Stack Intern at SK Bit Software Solutions Pvt. Ltd.
-🧑‍💻 Experienced in Java, Spring Boot, React.js, Node.js, Python, and REST APIs
-🗄️ Hands-on experience with MySQL, MongoDB, and Firebase Firestore
-☁️ Interested in Cloud Computing, DevOps, CI/CD, and scalable backend systems
-🤖 Interested in Artificial Intelligence, Deep Learning, and Explainable AI
-🔐 Passionate about secure authentication, role-based access control, and backend development
-🚀 Love building real-world applications from idea to deployment
-🤝 Open to software development opportunities, internships, collaborations, and technical projects
-🛠️ Tech Stack
-💻 Programming Languages
+<br/>
 
-!Java !C++ !Python !JavaScript
+<a href="https://github.com/sumitkhetre20"> <img src="https://img.shields.io/github/followers/sumitkhetre20?label=Followers&style=for-the-badge&color=236ad3" /> </a> <a href="https://github.com/sumitkhetre20"> <img src="https://img.shields.io/github/stars/sumitkhetre20?label=Stars&style=for-the-badge&color=yellow" /> </a> <a href="https://linkedin.com/in/sumit-khetre"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-🌐 Web Development
+</div>
 
-!HTML5 !CSS3 !React !Node.js !Express.js
+🚀 About Me
+public class SumitKhetre {
 
-⚙️ Backend & Frameworks
+    String role = "Java Full-Stack Developer";
+    String education = "B.Tech Computer Engineering @ MITAOE";
+    String location = "Pune, India";
 
-!Spring Boot !Spring Security !REST API
+    String[] interests = {
+        "Software Engineering",
+        "Backend Development",
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "System Design"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "React.js",
+        "AWS",
+        "Docker",
+        "CI/CD",
+        "System Design"
+    };
+
+    String mindset = "Build. Learn. Improve. Repeat.";
+
+}
+
+
+🎓 Computer Engineering student at MIT Academy of Engineering, Pune with a CGPA of 8.26/10.
+
+💼 Currently working as a Java Full-Stack Intern at SK Bit Software Solutions Pvt. Ltd.
+
+🚀 I enjoy building secure, scalable applications and turning real-world problems into practical software solutions.
+
+🤖 I've also worked on deepfake detection and explainable AI, achieving 92% accuracy using MobileNetV2.
+
+☁️ Exploring AWS, Docker, CI/CD, and cloud-native application development.
+
+⚡ Tech Arsenal
+👨‍💻 Languages
+
+<p> <img src="https://skillicons.dev/icons?i=java,cpp,python,js" /> </p>
+
+🌐 Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,react" /> </p>
+
+⚙️ Backend
+
+<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express" /> </p>
 
 🗄️ Databases
 
-!MySQL !MongoDB !Firebase
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </p>
 
 🤖 AI / Machine Learning
 
-!TensorFlow !OpenCV !Google Colab
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" /> </p>
 
-Areas: Deep Learning • Transfer Learning • Computer Vision • Explainable AI • Image Classification
+Deep Learning • Transfer Learning • Computer Vision • Explainable AI • Image Classification
 
 ☁️ Cloud & DevOps
 
-!AWS !Docker !GitHub Actions !CI/CD
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github" /> </p>
 
-AWS: EC2 • S3 • IAM
+🛠️ Tools
 
-🛠️ Tools & Platforms
-
-!Git !GitHub !VS Code !IntelliJ IDEA !Postman !Jira !Vercel !Render
+<p> <img src="https://skillicons.dev/icons?i=vscode,idea,postman,jira,vercel" /> </p>
 
 💼 Experience
-💻 Java Full-Stack Intern
+🏢 Java Full-Stack Intern
 
 SK Bit Software Solutions Pvt. Ltd.
-July 2026 – Present | Pune, Maharashtra
+📍 Pune, Maharashtra • 📅 July 2026 – Present
 
-Developed and maintained Java-based backend modules for enterprise applications.
-Implemented RESTful APIs using Spring Boot and contributed to business logic development.
-Integrated and worked with MySQL databases for application data persistence.
-Performed debugging, testing, and backend performance optimization.
-Collaborated in an Agile development environment using Git and participated in code reviews.
-Contributed to feature development and deployment activities.
+🔹 Developing and maintaining Java-based backend modules for enterprise applications.
+🔹 Building RESTful APIs using Spring Boot.
+🔹 Integrating MySQL databases and implementing application business logic.
+🔹 Performing debugging, testing, and backend performance optimization.
+🔹 Working in an Agile environment with Git-based collaboration and code reviews.
+🔹 Contributing to feature development and deployment activities.
 🚀 Featured Projects
-🐾 Home4Pet — Pet Adoption & Management Platform
 
-React.js • Spring Boot • Spring Security • MySQL • JWT • Docker • Stripe • Groq AI
+<div align="center">
 
-A secure multi-role pet adoption platform designed to connect pet adopters, pet listers, and administrators.
+🐾 Home4Pet
+Pet Adoption & Management Platform
 
-Key Features
-🔐 JWT-based authentication and role-based access control
-👥 Separate roles for Adopters, Pet Listers, and Admins
-🐶 Pet listing and management
-📩 Adoption request management
-❤️ Favorites and adoption history
+React • Spring Boot • Spring Security • MySQL • JWT • Docker • Stripe • Groq AI
+
+</div>
+
+A secure multi-role platform connecting Pet Adopters, Pet Listers, and Administrators.
+
+✨ Highlights
+🔐 JWT authentication & Spring Security
+👥 Role-Based Access Control
+🐶 Pet listing & management
+📩 Adoption request workflow
+❤️ Favorites & adoption history
 👤 User profile management
-🤖 Integrated Groq AI chatbot
-💳 Integrated Stripe Checkout
-🐳 Containerized frontend and backend using Docker
-🗄️ MySQL-based data persistence
-🛠️ Service Sphere — Service Booking Platform
+🤖 Groq AI chatbot integration
+💳 Stripe Checkout integration
+🐳 Dockerized frontend & backend
+🗄️ MySQL data persistence
 
-React.js • Node.js • Express.js • MongoDB • JWT
+<div align="center">
 
-A multi-role service booking platform connecting customers with service providers.
+🛠️ Service Sphere
+Service Booking Platform
 
-Key Features
-🔐 JWT authentication and role-based authorization
-👥 Roles for Admin, Service Provider, and Customer
+React • Node.js • Express.js • MongoDB • JWT
+
+</div>
+
+A multi-role service booking platform designed for Customers, Service Providers, and Administrators.
+
+✨ Highlights
+🔐 JWT authentication
+👥 Role-Based Access Control
 🛠️ Service management
-📅 Service booking system
-👤 User profile management
-⭐ Customer feedback and reviews
+📅 Booking management
+⭐ Customer feedback
 📜 Booking history
-🔌 RESTful APIs using Node.js and Express.js
-🗄️ MongoDB-based data persistence
-🚀 Frontend deployed using Vercel
-☁️ Backend deployed using Render
-🧪 API testing using Postman
-🤖 Deepfake Image Detection System
+🔌 RESTful APIs
+🗄️ MongoDB persistence
+🧪 Postman API testing
+🚀 Vercel + Render deployment
+
+<div align="center">
+
+🤖 Deepfake Image Detection
+Explainable AI-Based Image Classification
 
 Python • TensorFlow • MobileNetV2 • OpenCV • Grad-CAM
 
-A deep learning-based image classification system designed to distinguish between real and deepfake images.
+</div>
 
-Key Features
-🧠 Implemented MobileNetV2 transfer learning
-🎯 Achieved 92% accuracy on the evaluation dataset
-🖼️ Image preprocessing using OpenCV
-🔄 Data augmentation using TensorFlow
-🔍 Implemented Grad-CAM for explainable AI
-🌡️ Generated visual heatmaps highlighting image regions influencing model predictions
-📚 Research work focused on explainable deepfake detection
+A deep learning system designed to classify images as real or deepfake.
+
+✨ Highlights
+🧠 MobileNetV2 transfer learning
+🎯 92% evaluation accuracy
+🖼️ OpenCV image preprocessing
+🔄 TensorFlow data augmentation
+🔍 Grad-CAM explainability
+🌡️ Visual heatmaps for model predictions
+📚 Research work on explainable deepfake detection
 🏆 Achievements
-🏅 Ranked among the Top 10 out of 500+ students after successfully clearing 6 rounds of the Zensar Technologies recruitment process.
-🤖 Recognized for AI solution development at ET AI Hackathon 2.0, organized by The Economic Times.
-📝 Authored a faculty-guided research paper on Explainable Deepfake Detection, submitted for consideration at ICCSTS.
-🎯 Achieved 92% accuracy in deepfake image detection using MobileNetV2, FFT, and Grad-CAM.
-💻 Participated in an Inter-College Hackathon, developing a Docker-based solution for secure WSL-hosted IP camera connectivity and real-time streaming.
+
+🏅 Top 10 / 500+ Students
+Cleared 6 rounds of the Zensar Technologies recruitment process.
+
+🤖 ET AI Hackathon 2.0
+Recognized for AI solution development at the hackathon organized by The Economic Times.
+
+📄 Research Paper
+Authored a faculty-guided research paper on Explainable Deepfake Detection, submitted for consideration at ICCSTS.
+
+🎯 92% Accuracy
+Achieved 92% accuracy using MobileNetV2, FFT, and Grad-CAM for deepfake detection.
+
+📹 Inter-College Hackathon
+Developed a Docker-based solution for secure WSL-hosted IP camera connectivity and real-time streaming.
+
 📜 Certifications
-☁️ AWS Certified Cloud Practitioner
-🧪 Software Testing — NPTEL Elite Certificate
-📘 TCS iON Career Edge Certification
+
+<div align="center">
+
+Certification	Issuer
+☁️ AWS Certified Cloud Practitioner	Amazon Web Services
+🧪 Software Testing — Elite Certificate	NPTEL
+📘 Career Edge	TCS iON
+
+</div>
+
 🎓 Education
-MIT Academy of Engineering, Pune
+🎓 MIT Academy of Engineering, Pune
 
-B.Tech. in Computer Engineering
-2024 – 2027 | CGPA: 8.26/10
+B.Tech. — Computer Engineering
+2024 – 2027 • CGPA: 8.26/10
 
-Puranmal Lahoti Government Polytechnic, Latur
+🎓 Puranmal Lahoti Government Polytechnic, Latur
 
-Diploma in Computer Engineering
-2021 – 2024 | 91.37%
+Diploma — Computer Engineering
+2021 – 2024 • 91.37%
 
-📊 GitHub Activity
+📊 GitHub Analytics
 
-!GitHub Stats
+<div align="center">
 
-!Top Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumitkhetre20&showicons=true&theme=tokyonight&hideborder=true&includeallcommits=true&count_private=true"/>
 
-📫 Connect With Me
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkhetre20&layout=compact&theme=tokyonight&hide_border=true"/>
 
-📧 Email: sumitkhetre20@gmail.com
+</div>
 
-💼 LinkedIn: linkedin.com/in/sumit-khetre
+<br/>
 
-🌐 GitHub: github.com/sumitkhetre20
+<div align="center">
 
-📍 Pune, Maharashtra, India
+<img src="https://streak-stats.demolab.com?user=sumitkhetre20&theme=tokyonight&hide_border=true" />
 
-💡 Quote
-"Code with purpose, build with passion, and never stop learning." 🚀
+</div>
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+🐍 Contribution Activity
+
+<div align="center">
+
+!Snake animation
+
+</div>
+
+🌱 Currently Exploring
+☕ Java & Spring Boot
+        ↓
+⚛️ React & Full-Stack Development
+        ↓
+☁️ AWS & Cloud Architecture
+        ↓
+🐳 Docker & CI/CD
+        ↓
+🏗️ System Design
+        ↓
+🤖 AI & Explainable Machine Learning
+
+📈 My Developer Journey
+2021 ─────── 2024 ───────── 2026 ──────────────── 🚀
+  │             │              │
+  │             │              │
+Diploma      B.Tech        Full-Stack
+91.37%       8.26 CGPA       Intern
+  │             │              │
+  └─────────────┴──────────────┤
+                               │
+                    Java • React • Spring
+                    AWS • Docker • AI/ML
+
+📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sumitkhetre20@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<a href="https://linkedin.com/in/sumit-khetre"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="https://github.com/sumitkhetre20"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</div>
+
+<div align="center">
+
+💭 Developer Philosophy
+"Build with purpose. Learn continuously. Ship better."
+
+<br/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sumitkhetre20&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+
+</div>
