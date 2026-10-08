@@ -24,7 +24,9 @@
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=300&height=30&lines=🧑‍💻+About+Me" alt="About"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=About+Me" alt="About Me"/>
+</div>
 
 > **B.Tech Computer Engineering student** building secure, scalable & practical software.
 > Currently **Java Full-Stack Intern** @ SK Bit Software Solutions — REST APIs, MySQL, debugging, Agile & Git.
@@ -32,7 +34,9 @@
 <br/>
 
 <!-- ═══════════════ SKILLS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=300&height=30&lines=⚡+Tech+Arsenal" alt="Skills"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Tech+Arsenal" alt="Tech Arsenal"/>
+</div>
 
 <div align="center">
 
@@ -52,7 +56,9 @@
 <br/>
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=300&height=30&lines=🚀+Featured+Projects" alt="Projects"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Featured+Projects" alt="Featured Projects"/>
+</div>
 
 <table>
 <tr>
@@ -126,7 +132,9 @@ flowchart LR
 <br/>
 
 <!-- ═══════════════ EXPERIENCE + ACHIEVEMENTS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=420&height=30&lines=💼+Experience+%26+🏆+Achievements" alt="Experience"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Experience+%26+Achievements" alt="Experience & Achievements"/>
+</div>
 
 <table>
 <tr>
@@ -156,7 +164,9 @@ flowchart LR
 <br/>
 
 <!-- ═══════════════ EDU + CERTS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=420&height=30&lines=🎓+Education+%26+📜+Certifications" alt="Education"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Education+%26+Certifications" alt="Education & Certifications"/>
+</div>
 
 <div align="center">
 
@@ -176,7 +186,9 @@ flowchart LR
 <br/>
 
 <!-- ═══════════════ ROADMAP ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=300&height=30&lines=🗺️+Journey+%26+Learning" alt="Journey"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=Journey+%26+Learning" alt="Journey & Learning"/>
+</div>
 
 ```mermaid
 timeline
@@ -200,7 +212,9 @@ timeline
 <br/>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&color=36BCF7&width=300&height=30&lines=📊+GitHub+Stats" alt="Stats"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=GitHub+Stats" alt="GitHub Stats"/>
+</div>
 
 <div align="center">
 
